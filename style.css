@@ -1,0 +1,12 @@
+.bg:hover {
+  border: 1px solid green;
+}
+
+.max-w-sm.bg-white.border.border-gray-200.rounded-lg.shadow.col-span-12.lg\:col-span-4.text-center:hover {
+  border: 1px solid green;
+  cursor: pointer;
+  padding: 10px;
+}
+.grid.grid-cols-12.gap-5 {
+  padding: 20px;
+}
